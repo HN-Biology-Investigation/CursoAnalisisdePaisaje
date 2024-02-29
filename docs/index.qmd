@@ -1,0 +1,77 @@
+---
+title: "Curso Analisis enfocado en Ecologia de paisaje"
+author: "David Murillo"
+format: html
+editor: visual
+---
+
+
+[<img src="HN Cursos publicidad/HN Biology Inv Circle.jpg" align="right" width="100"/>](https://www.hnbiology.org/)
+
+¡Bienvenidos! En el curso de R para análisis de paisaje, exploraremos las fascinantes posibilidades de utilizar el lenguaje de programación R para comprender y analizar la estructura del paisaje a través de datos espaciales.
+
+# Inscripciones
+
+<!-- Start Badges -->
+
+| [Whapsapp](http://wa.me/+50499549551) \| [Facebook](https://www.facebook.com/Hn.Biology.Investigation?mibextid=ZbWKwL) \| [email](admi@hnbiology.org) \| [website](https://www.hnbiology.org/) \|
+
+<!-- End Badges -->
+
+# Costos de Inscripción:
+
+-   Inversión en USD (Dólares estadounidenses): 40 USD.
+
+-   Inversión para hondureños: 1000 Lempiras hondureños.
+
+# Métodos de Pago:
+
+-   Pago Internacional por [PayPal](https://www.paypal.com/paypalme/hnbiologyinv) .
+
+-   Pago para hondureños por Banco Atlántida, BANPAÍS y BAC Honduras: Por favor, solicita la información pertinente.
+
+-   Otras formas de pago:
+
+[MoneyGram](https://www.moneygram.com/mgo/us/es/send/como-enviar-dinero/enviar-en-linea/).
+
+[DineroExpress](https://www.dineroexpress.com/WebPortalDexDigital/)
+
+# Modalidades del Curso:
+
+-   Modalidad Asincrónica: Descripción: Tendrás acceso a nuestra plataforma educativa donde encontrarás tutoriales detallados para cada tema del curso. Además, tendrás acceso a todos los materiales y recursos necesarios para tu aprendizaje. Incluye tres asesorías individuales de una hora cada una con nuestros asesores.
+
+-   Modalidad en Vivo: Descripción: Durante el año, ofreceremos 3 o 4 cursos en vivo a través de la plataforma Zoom. Estos cursos serán impartidos en tiempo real y también tendrás acceso a la plataforma educativa con las grabaciones de cada clase y todos los recursos necesarios para tu aprendizaje.
+
+# Certificación:
+
+-   Descripción: Al finalizar exitosamente el curso y completar las actividades asignadas, recibirás un certificado emitido por nuestra institución. Todas las actividades serán entregadas y revisadas por nuestros instructores para garantizar la calidad del aprendizaje y la validez del certificado.
+
+# Descripción del Curso:
+
+En este curso nos adentraremos en el mundo de R y RStudio, herramientas fundamentales para el análisis de datos y visualización en R. Además, exploraremos el trabajo con shapefiles y rasters, aprendiendo a manipular y visualizar estas capas que son esenciales para el análisis de paisaje. Por último, nos sumergiremos en el poderoso paquete landscapemetrics, diseñado específicamente para la cuantificación y análisis de la estructura del paisaje, ampliando así nuestras capacidades analíticas en este campo.
+
+# Temas que Cubriremos:
+
+[Limpieza y Manejo de Datos](Introduccion.html).
+
+[Manipulación de Datos Espaciales](EstadisticaDescriptiva.html)
+
+[Análisis de Integración Ecológica](Hipotesis.html)
+
+[Análisis de Vulnerabilidad del Recurso Hidrológico](Anova.html)
+
+[Análisis de Conectividad de Paisaje](ChiCuadrado.html)
+
+[Análisis de Fragmentación de Paisaje y Otras Métricas:](Correlacion.html)
+
+# Metodología de Enseñanza:
+
+Nuestro enfoque educativo se basa en la práctica activa y el aprendizaje interactivo. A lo largo del curso, trabajarás en ejercicios prácticos y proyectos que te permitirán aplicar directamente lo que aprendas. Además, tendrás acceso a recursos complementarios y a un equipo de instructores dedicados que te brindarán apoyo individualizado cuando sea requerido.
+
+# Requisitos Previos:
+
+Se requiere haber completado el curso de [nivel básico](https://hn-biology-investigation.github.io/TemarioCursoAnalisisEstadisticoBasico/) o uno similar.
+
+Este curso intermedio está especialmente diseñado para aquellos interesados en ampliar sus habilidades en el análisis del paisaje a través de herramientas estadísticas avanzadas utilizando R y RStudio. Abordaremos técnicas y conceptos más profundos que te permitirán explorar y comprender de manera más completa la complejidad de los datos geoespaciales y su aplicación en el análisis del paisaje. ¡Te invitamos a unirte a nosotros en este emocionante viaje hacia la estadística avanzada y el análisis del paisaje!
+
+![HN Biology Investigation Academy](HN%20Cursos%20publicidad/HN%20Biology%20Inv%20large.jpg)
